@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: sambasy/devops-app
-  tag: "latest"
+  tag: "61d16e1a07df84cf6cfdf511b38c7a4299322bb1"
   pullPolicy: Always
 
 service:
